@@ -28,7 +28,7 @@ msgstr ""
 #: affiliates/banners/templates/banners/generator/banners.html:12
 #: affiliates/banners/templates/banners/generator/banners.html:20
 msgid "Choose a Banner"
-msgstr "Choose a banneres"
+msgstr ""
 
 #: affiliates/banners/templates/banners/generator/categories.html:12
 #: affiliates/banners/templates/banners/generator/categories.html:20
