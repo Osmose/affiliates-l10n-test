@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -28,7 +28,7 @@ msgstr ""
 #: affiliates/banners/templates/banners/generator/banners.html:12
 #: affiliates/banners/templates/banners/generator/banners.html:20
 msgid "Choose a Banner"
-msgstr "Cheous a bannier"
+msgstr "chaws a bagdu"
 
 #: affiliates/banners/templates/banners/generator/categories.html:12
 #: affiliates/banners/templates/banners/generator/categories.html:20
