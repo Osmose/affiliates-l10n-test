@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-04 12:30+0000\n"
-"PO-Revision-Date: 2015-08-17 09:19:54.164139\n"
+"PO-Revision-Date: 2015-08-17 09:23:39.950219\n"
 "Last-Translator: mkelly <mkelly@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -28,7 +28,7 @@ msgstr ""
 #: affiliates/banners/templates/banners/generator/banners.html:12
 #: affiliates/banners/templates/banners/generator/banners.html:20
 msgid "Choose a Banner"
-msgstr "Cheous a bannier"
+msgstr "chase a banner"
 
 #: affiliates/banners/templates/banners/generator/categories.html:12
 #: affiliates/banners/templates/banners/generator/categories.html:20
